@@ -1,0 +1,84 @@
+# target blokded cheat and gambling game 
+# Retrieved 2026-04-14, License - CC BY-SA 4.0
+# cyberw 1 r y 4 development tester and target to ssl and serveral 
+requests.exceptions.SSL: HTTPSConnectionPool(host=':https://www.google.co.id/android' 
+port=443): Max retries exceeded with url: / (Caused by SSL("Can 
+connect to HTTPS URL because the SSL module is available."))
+
+# target blokded cheat and gambling game 
+# Retrieved 2026-04-14, License - CC BY-SA 4.0
+# cyberw 1 r y 4 development tester and target to ssl and serveral 
+requests.exceptions.SSL: HTTPSConnectionPool(host=':https://www.g20.org' 
+port=443): Max retries exceeded with url: / (Caused by SSL("Can 
+connect to HTTPS URL because the SSL module is available."))
+
+# target blokded cheat and gambling game 
+# Retrieved 2026-04-14, License - CC BY-SA 4.0
+# cyberw 1 r y 4 development tester and target to ssl and serveral 
+requests.exceptions.SSL: HTTPSConnectionPool(host=':https://www.g20.org' 
+port=198): Max retries exceeded with url: / (Caused by SSL("Can 
+connect to HTTPS URL because the SSL module is available."))
+
+  
+# target blokded cheat and gambling game 
+# Retrieved 2026-04-14, License - CC BY-SA 4.0
+# cyberw 1 r y 4 development tester and target to ssl and serveral 
+requests.exceptions.SSL: HTTPSConnectionPool(host=':https://www.google.com' 
+port=103): Max retries exceeded with url: / (Caused by SSL("Can 
+connect to HTTPS URL because the SSL module is available."))
+
+# target blokded cheat and gambling game 
+# Retrieved 2026-04-14, License - CC BY-SA 4.0
+# cyberw 1 r y 4 development tester and target to ssl and serveral 
+requests.exceptions.SSL: HTTPSConnectionPool(host=':https://www.android.com' 
+port=172): Max retries exceeded with url: / (Caused by SSL("Can 
+connect to HTTPS URL because the SSL module is available."))
+
+
+# target blokded cheat and gambling game 
+# Retrieved 2026-04-14, License - CC BY-SA 4.0
+# cyberw 1 r y 4 development tester and target to ssl and serveral 
+requests.exceptions.SSL: HTTPSConnectionPool(host=':https://www.icloud.com' 
+port=172): Max retries exceeded with url: / (Caused by SSL("Can 
+connect to HTTPS URL because the SSL module is available."))
+
+
+
+# target blokded cheat and gambling game 
+# Retrieved 2026-04-14, License - CC BY-SA 4.0
+# cyberw 1 r y 4 development tester and target to ssl and serveral 
+requests.exceptions.SSL: HTTPSConnectionPool(host=':https://www.ubuntu.com' 
+port=172): Max retries exceeded with url: / (Caused by SSL("Can 
+connect to HTTPS URL because the SSL module is available."))
+
+
+
+
+# target blokded cheat and gambling game 
+# Retrieved 2026-04-14, License - CC BY-SA 4.0
+# cyberw 1 r y 4 development tester and target to ssl and serveral 
+requests.exceptions.SSL: HTTPSConnectionPool(host=':https://www.linux.org' 
+port=104): Max retries exceeded with url: / (Caused by SSL("Can 
+connect to HTTPS URL because the SSL module is available."))
+
+
+
+
+# target blokded cheat and gambling game 
+# Retrieved 2026-04-14, License - CC BY-SA 4.0
+# cyberw 1 r y 4 development tester and target to ssl and serveral 
+requests.exceptions.SSL: HTTPSConnectionPool(host=':https://www.chatGPT.com' 
+port=172): Max retries exceeded with url: / (Caused by SSL("Can 
+connect to HTTPS URL because the SSL module is available."))
+
+
+
+
+# target blokded cheat and gambling game 
+# Retrieved 2026-04-14, License - CC BY-SA 4.0
+# cyberw 1 r y 4 development tester and target to ssl and serveral 
+requests.exceptions.SSL: HTTPSConnectionPool(host=':https://workspace.google.com/intl/en/gmail/' 
+port=443): Max retries exceeded with url: / (Caused by SSL("Can 
+connect to HTTPS URL because the SSL module is available."))
+
+
