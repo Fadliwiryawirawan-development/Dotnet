@@ -7,5 +7,6 @@
 # konsistensi dengan perangkat kepemerintahan yang di pimpin , melalui intergritas inttiute keperintahan indonsia , mengenai tahun 2026 -2030 fokuskan indonesia memiliki kecangkupan alat , PT , perusahaan sendiri tanpa harus di kendalai oleh pihak manapun semenra kinerja kerja sama indonesian memiliki ketretaarikan kecangkupan distribute untuk dim pasarkan dalam pasar global pmmutaran ekonomi jangka waktu yang cukup lama 
 
 # istirhat cukup lama soal pertemuan diplomasi secara penerbangan maupun travelis , dan lebih kepada pemanfataan literasi sosial dalam bentuk intenet LOT meet Forum , berupa video life streaming
+# semua akses jalur provinsi akan kami bekukan milik negara indonesia dari skala 34 hingga 37 provinsi milik indonesia , keterkaitan tersebut kami undang semua polimer datang ke embassytas indonesia kedutaan internasional , bersama PBB dan NATO !!
 
 <img width="250" height="417" alt="G20_Indonesia_2022_logo svg (1)" src="https://github.com/user-attachments/assets/4c3bc191-be20-45b4-bdae-96541a499caf" />
